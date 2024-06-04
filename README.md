@@ -1,6 +1,9 @@
 > [!IMPORTANT]  
 > Consider using [MemoWise](https://github.com/panorama-ed/memo_wise) instead, as it is maintained, fully tested, provides thread safdety guarantees, and is much, much faster.
 
+> [!TIP]  
+> Seriously though, read the important note above.
+
 # Memoist
 
 [![Build Status](https://github.com/matthewrudy/memoist/workflows/ci/badge.svg)](https://github.com/matthewrudy/memoist/actions)
