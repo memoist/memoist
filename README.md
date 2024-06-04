@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Consider using [MemoWise](https://github.com/panorama-ed/memo_wise) instead, as it is maintained, fully tested, provides thread safdety guarantees, and is much, much faster.
+> Consider using [MemoWise](https://github.com/panorama-ed/memo_wise) instead, as it is maintained, fully tested, provides thread safety guarantees, and is much, much faster.
 
 > [!TIP]  
 > Seriously though, read the important note above.
