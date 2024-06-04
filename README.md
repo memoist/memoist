@@ -4,6 +4,9 @@
 > [!TIP]  
 > Seriously though, read the important note above.
 
+> [!WARNING]  
+> If you must continue - be aware that this is unmaintained software.
+
 # Memoist
 
 [![Build Status](https://github.com/matthewrudy/memoist/workflows/ci/badge.svg)](https://github.com/matthewrudy/memoist/actions)
